@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Tag 1"
+---
+
 # Tag 1: Brocchus Bande im Wirtshaus
 
 # Vorsichtiges Kennenlernen und Schutzgelderpresser
