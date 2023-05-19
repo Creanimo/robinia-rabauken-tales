@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tag 1"
+title: "Tag 1"
 ---
 
 # Tag 1: Brocchus Bande im Wirtshaus
