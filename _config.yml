@@ -1,3 +1,5 @@
 remote_theme: Creanimo/jekyll-hitchens
 plugins:
 - jekyll-remote-theme
+title: "Tales of Robinia & Rabauken"
+description: "Was unsere Helden erlebt haben..."
